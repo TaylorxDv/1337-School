@@ -1,0 +1,5 @@
+Credentials cache: API:42559A0E-206A-4403-8AC9-B678BFB2278C
+        Principal: amarzoug@1337.MA
+
+  Issued                Expires               Principal
+Jun 21 12:39:16 2021  Jun 22 12:39:16 2021  krbtgt/1337.MA@1337.MA
